@@ -11,4 +11,4 @@
 
 ## Demo Video
 
-![Link to Demo Video]([https://drive.google.com/file/d/1ZCbBrkqJAyXvTCubujSGOWp2QsFf5ZRL/view?usp=sharing](http://drive.google.com/file/d/1ZCbBrkqJAyXvTCubujSGOWp2QsFf5ZRL/view?usp=drive_open))
+![Link to Demo Video](https://drive.google.com/file/d/1ZCbBrkqJAyXvTCubujSGOWp2QsFf5ZRL/view?usp=sharing)
